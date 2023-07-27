@@ -32,8 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Backend&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=Thritter&theme=transparent" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" /> -->
 </p>
 
 <!-- Skills: Devicon -->
