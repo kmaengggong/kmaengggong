@@ -11,7 +11,7 @@ jobs:
     steps:
       # Snake Animation
       - name: generate github-contribution-grid-snake.svg
-      - uses: Platane/snk/svg-only@3
+        uses: Platane/snk/svg-only@3
         with:
           github_user_name: kmaengggong
           outputs:
@@ -21,7 +21,7 @@ jobs:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: push github-contribution-grid-snake.svg to the output branch
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
