@@ -11,7 +11,7 @@
   <a href="https://www.acmicpc.net/user/kmaengggong">
     <img src="https://img.shields.io/badge/Baekjoon-07609F?style=for-the-badge&logo=bitdefender" />
   </a>
-  <a href="kmaengggong@gmail.com">
+  <a href="mailto:kmaengggong@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-DDDDDD?style=for-the-badge&logo=gmail" />
   </a>
 </p>
