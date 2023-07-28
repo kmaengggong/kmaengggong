@@ -28,11 +28,17 @@
 <!-- Main Projects: GitHub Readme Stats -->
 <h2 align="center">Main Repositories </h2><br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Backend&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" />
+  <a href="https://github.com/kmaengggong/AndCrowd-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Backend&theme=transparent" />
+  </a>
+  <a href="https://github.com/kmaengggong/AndCrowd-Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=Thritter&theme=transparent" />
+  <a href="https://github.com/kmaengggong/Thritter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=Thritter&theme=transparent" />
+  </a>
   <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" /> -->
 </p>
 
