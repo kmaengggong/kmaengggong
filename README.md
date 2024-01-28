@@ -21,9 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kmaengggong&show_icons=true&theme=transparent&hide=contribs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmaengggong&layout=compact&theme=transparent" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/kmaengggong/kmaengggong/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</p> -->
 
 <!-- Main Projects: GitHub Readme Stats -->
 <h2 align="center">Main Repositories </h2><br />
@@ -35,12 +35,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kmaengggong/Thritter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=Thritter&theme=transparent" />
-  </a>
+  </a> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" /> -->
-</p>
+<!-- </p> -->
 
 <!-- Skills: Devicon -->
 <h2 align="center">Skills</h2>
