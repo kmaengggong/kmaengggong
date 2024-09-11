@@ -140,10 +140,13 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /></td>
       <td rowspan="2">Sub</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /></td>
+      <td rowspan="2">Hello, world!</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" /></td>
     </tr>
     <tr>
       <td align="center">MySQL</td>
       <td align="center">PostgreSQL</td>
+      <td align="center">Firebase</td>
     </tr>
   </tbody>
 </table>
