@@ -19,74 +19,159 @@
   </a>
 </p>
 
-<!-- Stats: GitHub Readme Stats, Platane/snk -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmaengggong&show_icons=true&theme=transparent&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmaengggong&layout=compact&theme=transparent" />
-</p>
-<!-- <p align="center">
-  <img src="https://github.com/kmaengggong/kmaengggong/blob/output/github-contribution-grid-snake-dark.svg" />
-</p> -->
+<!-- Languages -->
+## Languages
 
-<!-- Main Projects: GitHub Readme Stats -->
-<h2 align="center">Main Repositories </h2><br />
-<p align="center">
-  <a href="https://github.com/kmaengggong/AndCrowd-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Backend&theme=transparent" />
-  </a>
-  <a href="https://github.com/kmaengggong/AndCrowd-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" />
-  </a>
-</p>
-<!-- <p align="center">
-  <a href="https://github.com/kmaengggong/Thritter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=Thritter&theme=transparent" />
-  </a> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmaengggong&repo=AndCrowd-Frontend&theme=transparent" /> -->
-<!-- </p> -->
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Main</td>
+      <td align="center"><img id="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /></td>
+      <td rowspan="2">Sub</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://www.svgrepo.com/show/142781/jsp-file-format-symbol.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td align="center">Java</td>
+      <td align="center">Python</td>
+      <td align="center">JS</td>
+      <td align="center">TS</td>
+      <td align="center">HTML</td>
+      <td align="center">CSS</td>
+      <td align="center">JSP</td>
+      <td align="center">Dart</td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- Skills: Devicon -->
-<h2 align="center">Skills</h2>
-<h3 align="center">main</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-</p>
-  
-<h3 align="center">sub</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
-</p>
-  
-<h3 align="center">else</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Hello, world!</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td align="center">C</td>
+      <td align="center">C++</td>
+    </tr>
+  </tbody>
+</table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="45" height="45" />
+<!-- Libraries -->
+## Libraries
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
-</p>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Main</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /></td>
+      <td rowspan="2">Hello, world!</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/OpenLayers_logo.svg/1200px-OpenLayers_logo.svg.png" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td align="center">React.js</td>
+      <td align="center">Tensorflow</td>
+      <td align="center">Scikit-learn</td>
+      <td align="center">OpenLayers</td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- ### Learned or Used Just Once
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" />
-</p> -->
+<!-- Frameworks -->
+## Frameworks
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Main</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" /></td>
+      <td rowspan="2">Sub</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td align="center">Spring</td>
+      <td align="center">Next.js</td>
+      <td align="center">Django</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Server -->
+## Server
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Main</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="50" height="50" /></td>
+      <td rowspan="2">Sub</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" /></td>
+      <td rowspan="2">Hello, world!</td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/186522?s=280&v=4" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td align="center">Ubuntu</td>
+      <td align="center">AWS</td>
+      <td align="center">GeoServer</td>
+      <td align="center">RaspberryPi</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Database -->
+## Database
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">Main</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /></td>
+      <td rowspan="2">Sub</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td align="center">MySQL</td>
+      <td align="center">PostgreSQL</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- ETC: -->
+## ETC
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" height="50" /></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td align="center">Git</td>
+      <td align="center">Node.js</td>
+      <td align="center">VSCode</td>
+      <td align="center">Eclipse</td>
+      <td align="center">Intellij</td>
+      <td align="center">PyCharm</td>
+      <td align="center">Vim</td>
+      <td align="center">Slack</td>
+      <td align="center">Figma</td>
+    </tr>
+  </tbody>
+</table>
