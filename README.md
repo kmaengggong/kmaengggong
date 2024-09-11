@@ -95,11 +95,13 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" /></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" /></td>
       <td rowspan="2">Sub</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" /></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" /></td>
     </tr>
     <tr>
       <td align="center">Spring</td>
       <td align="center">Next.js</td>
+      <td align="center">Flutter</td>
       <td align="center">Django</td>
     </tr>
   </tbody>
